@@ -15,4 +15,3 @@ if(missingNumber == []):
 else:
     for i in range(len(missingNumber)):
         print(missingNumber[i])
-
