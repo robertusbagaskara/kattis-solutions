@@ -13,4 +13,5 @@ int main() {
 	} else {
 		cout << "2";
 	}
+	return 0;
 }

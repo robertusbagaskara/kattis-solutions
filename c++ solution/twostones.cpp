@@ -8,4 +8,5 @@ int main(){
 	} else {
 		cout << "Alice";
 	}
+	return 0;
 }
