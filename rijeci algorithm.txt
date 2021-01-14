@@ -1,0 +1,13 @@
+0
+1
+2
+3
+4
+5
+
+B = 0 1 = 1
+AB = 1 1 = 2
+BAB = 1 2 = 3
+ABBAB = 2 3 = 4
+BABABBAB = 3 5 = 5
+ABBABBABABBAB = 5 8 = 6
