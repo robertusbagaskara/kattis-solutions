@@ -1,3 +1,3 @@
-# kattis-solutions
+# Kattis Problem Solution
 
-Some [Kattis](https://open.kattis.com/) problems that I solved.
+This repository contains some of [Kattis](https://open.kattis.com/) problems that I solved.
