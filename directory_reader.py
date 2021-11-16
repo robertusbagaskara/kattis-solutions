@@ -3,7 +3,7 @@ import os
 class ListingDirectory:
     '''
     This class is to reading all the file and folder in directory,
-    then append all the file with spesific extension into the list.
+    then append all the file with spesific extension into the list in dictionary.
     
     on this case (Example):
 
@@ -17,7 +17,7 @@ class ListingDirectory:
             helloworld.cpp (file)
             helloworld.py (file)
     
-    DICTIONARY = ['Hello World!':['helloworld.c', 'helloworld.cpp', 'helloworld.py']]
+    DICTIONARY = {'Hello World!':['helloworld.c', 'helloworld.cpp', 'helloworld.py']}
 
     v.1 
     '''
