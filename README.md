@@ -1,7 +1,9 @@
 # Kattis Problem Solution 
 This repository contains with my solutions that solve some problem in [Kattis Problem Archive](https://open.kattis.com/). 
 
-![alt text](https://open.kattis.com/images/kattis/judge.png?7f7dbf=) | No | Problems Name | Solutions |
+![alt text](https://open.kattis.com/images/kattis/judge.png?7f7dbf=) 
+
+ | No | Problems Name | Solutions |
  | -- | ------------- | --------- |
  | 1 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/3D%20Printed%20Statues/3dprinter.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/3D%20Printed%20Statues/3dprinter.py) |
  | 2 | [A Different Problem](https://open.kattis.com/problems/different) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/A%20Different%20Problem/different.py) |
