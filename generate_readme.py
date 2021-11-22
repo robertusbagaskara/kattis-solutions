@@ -21,7 +21,18 @@ def linkSolutions(problem_name, solution):
     if ' ' in problem_name:
         problem_name = problem_name.replace(' ', '%20')
     link = 'https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/{}/{}'.format(problem_name, solution)
-    readme_link = '[{}]({})'.format(solution, link)
+    extension = None
+    if '.py' in solution:
+        extension = 'Python'
+    elif '.cpp' in solution:
+        extension = 'C++'
+    elif '.c' in solution:
+        extension = 'C'
+    elif '.js' in solution:
+        extension = 'Javascript'
+    elif '.kt' in solution:
+        extension = 'Kotlin'
+    readme_link = '[{}]({})'.format(extension, link)
     return readme_link
 
     
@@ -29,7 +40,8 @@ def linkSolutions(problem_name, solution):
 with open('README.md', 'w') as f:
     tmp = 0
     f.write('# Kattis Problem Solution \n')
-    f.write('This repository contains some of [Kattis](https://open.kattis.com/) problems that I solved. \n\n')
+    f.write('This repository contains with my solutions that solve some problem in [Kattis Problem Archive](https://open.kattis.com/). \n\n')
+    f.write('![alt text](https://open.kattis.com/images/kattis/judge.png?7f7dbf=)')
     f.write(' | No | Problems Name | Solutions |\n')
     f.write(' | -- | ------------- | --------- |\n')
     for key in dictSource:
@@ -49,7 +61,7 @@ with open('README.md', 'w') as f:
     f.write('\n\n')
 
     f.write('## Author:\n')
-    f.write('- [@robertusbagaskara](https://github.com/robertusbagaskara)')
+    f.write('- [Robertus Bagaskara](https://open.kattis.com/users/robertusbagaskara)')
 
 print('\nREADME.MD Successfully Generated/Updated \n')
 userExit = input('Press ENTER to exit..')
