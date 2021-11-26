@@ -6,7 +6,7 @@ write and read file with python: https://www.pythontutorial.net/python-basics/py
 You can double click this file if Python already installed and added in your Windows path.
 Or you can use the command line: python generate_readme.py / python3 generate_readme.py
 
-v.1
+v.1.1
 """
 import directory_reader
 
@@ -39,7 +39,7 @@ def linkSolutions(problem_name, solution):
 
     
 
-with open('README.md', 'w') as f:
+with open('README.md', 'w', encoding='UTF-8') as f:
     tmp = 0
     f.write('# Kattis Problem Solution \n')
     f.write('This repository contains with my solutions that solve some problem in [Kattis Problem Archive](https://open.kattis.com/). \n\n')
