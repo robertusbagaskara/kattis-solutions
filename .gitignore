@@ -39,3 +39,4 @@ Thumbs.db
 # Folder #
 ##########
 .vscode/
+.__pycache__
