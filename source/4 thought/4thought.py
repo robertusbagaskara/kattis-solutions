@@ -1,5 +1,3 @@
-from os import write
-
 def checkNumber(target):
     operator = ['+', '-', '*', '//']
     writedOperator = ['', '', '']
