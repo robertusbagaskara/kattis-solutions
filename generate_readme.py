@@ -34,6 +34,8 @@ def linkSolutions(problem_name, solution):
         extension = 'Java'
     elif '.kt' in solution:
         extension = 'Kotlin'
+    elif '.go' in solution:
+        extension = 'Go'
     readme_link = '[{}]({})'.format(extension, link)
     return readme_link
 
