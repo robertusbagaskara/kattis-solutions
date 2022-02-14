@@ -36,6 +36,8 @@ def linkSolutions(problem_name, solution):
         extension = 'Kotlin'
     elif '.go' in solution:
         extension = 'Go'
+    elif '.rs' in solution:
+        extension = 'Rust'
     readme_link = '[{}]({})'.format(extension, link)
     return readme_link
 
