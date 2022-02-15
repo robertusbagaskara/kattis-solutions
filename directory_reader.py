@@ -26,7 +26,7 @@ class ListingDirectory:
         self.path_file = path_file
     
     def file_extension_checker(self, file_target):
-        accepted_extensions = ['py', 'c', 'cpp', 'js', 'java', 'kt', 'go', 'rs']  # change here for another extensions
+        accepted_extensions = ['py', 'c', 'cpp', 'js', 'java', 'kt', 'go', 'rs', 'rb']  # change here for another extensions
         if '.' not in file_target:
             return False
         else:

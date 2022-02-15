@@ -8,3 +8,6 @@ int main()
 	
 	return 0;
 }
+
+
+// get 0.00s execution time in Kattis CPU

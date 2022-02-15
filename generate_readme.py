@@ -38,6 +38,8 @@ def linkSolutions(problem_name, solution):
         extension = 'Go'
     elif '.rs' in solution:
         extension = 'Rust'
+    elif '.rb' in solution:
+        extension = 'Ruby'
     readme_link = '[{}]({})'.format(extension, link)
     return readme_link
 
