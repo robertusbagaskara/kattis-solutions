@@ -172,8 +172,9 @@ This repository contains with my solutions that solve some problem in [Kattis Pr
  | 167 | [Vauvau](https://open.kattis.com/problems/vauvau) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Vauvau/vauvau.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Vauvau/vauvau.py) |
  | 168 | [What does the fox says](https://open.kattis.com/problems/whatdoesthefoxsay) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/What%20does%20the%20fox%20says/whatdoesthefoxsay.py) |
  | 169 | [Which is Greater](https://open.kattis.com/problems/whichisgreater) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Which%20is%20Greater/whichisgreater.cpp) |
- | 170 | [Zamka](https://open.kattis.com/problems/zamka) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Zamka/zamka.py) |
- | 171 | [Östgötska](https://open.kattis.com/problems/ostgotska) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Östgötska/ostgotska.py) |
+ | 170 | [Yin and Yang Stones](https://open.kattis.com/problems/yinyangstones) | [Go](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Yin%20and%20Yang%20Stones/yinyangstones.go) |
+ | 171 | [Zamka](https://open.kattis.com/problems/zamka) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Zamka/zamka.py) |
+ | 172 | [Östgötska](https://open.kattis.com/problems/ostgotska) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Östgötska/ostgotska.py) |
 
 
 ## Author:
