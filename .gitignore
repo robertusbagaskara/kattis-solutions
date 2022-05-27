@@ -38,5 +38,6 @@ Thumbs.db
 
 # Folder #
 ##########
-.vscode/
-.__pycache__/
+vscode/
+__pycache__/
+kattis_env/
