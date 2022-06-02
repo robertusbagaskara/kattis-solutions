@@ -49,7 +49,6 @@ if __name__ == '__main__':
         tmp = 0
         f.write('# Kattis Problem Solution \n')
         f.write('This repository contains with my solutions that solve some problem in [Kattis Problem Archive](https://open.kattis.com/). \n\n')
-        #f.write('![alt text](https://open.kattis.com/images/kattis/judge.png?7f7dbf=) \n\n')
         f.write(' | No | Problems Name | Solutions |\n')
         f.write(' | -- | ------------- | --------- |\n')
         for key in dictSource:
