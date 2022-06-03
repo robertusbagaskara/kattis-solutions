@@ -9,6 +9,7 @@ Or you can use the command line: python generate_readme.py / python3 generate_re
 v.1.1.2
 """
 import directory_reader
+import kattis_scrapper
 
 inputSource = directory_reader.ListingDirectory('source')
 dictSource = inputSource.make_dictionary()
@@ -43,28 +44,33 @@ def linkSolutions(problem_name, solution):
     readme_link = '[{}]({})'.format(extension, link)
     return readme_link
 
-    
 if __name__ == '__main__':
+    scrapper = kattis_scrapper.PointScrapper()
     with open('README.md', 'w', encoding='UTF-8') as f:
         tmp = 0
         f.write('# Kattis Problem Solution \n')
         f.write('This repository contains with my solutions that solve some problem in [Kattis Problem Archive](https://open.kattis.com/). \n\n')
-        f.write(' | No | Problems Name | Solutions |\n')
-        f.write(' | -- | ------------- | --------- |\n')
+        f.write(' | No | Problems Name | Solutions | Difficulty |\n')
+        f.write(' | -- | ------------- | --------- | ---------- |\n')
         for key in dictSource:
             list_tmp = dictSource[key]
             tmp += 1
             f.write(' | '+str(tmp))
             target = list_tmp[0].split('.')
             target = target[0]
-            f.write(' | [{}]({}) | '.format(key, linkProblems(target)))
+            problem_link = linkProblems(target)
+            f.write(' | [{}]({}) | '.format(key, problem_link))
             for i in range(len(list_tmp)):
                 if i == len(list_tmp)-1:
                     f.write(linkSolutions(key, list_tmp[i])+' ')
                 else:
                     f.write(linkSolutions(key, list_tmp[i])+', ')
             f.write('|')
+            f.write(scrapper.getPoints(problem_link))
+            f.write('|')
             f.write('\n')
+            print(problem_link)
+            print(f"scrapping {tmp} from total {len(dictSource)}")
         f.write('\n\n')
 
         f.write('## Author:\n')
