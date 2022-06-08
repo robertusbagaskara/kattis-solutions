@@ -6,7 +6,7 @@ write and read file with python: https://www.pythontutorial.net/python-basics/py
 You can double click this file if Python already installed and added in your Windows path.
 Or you can use the command line: python generate_readme.py / python3 generate_readme.py
 
-v.1.1.2
+v.1.1.3
 """
 import directory_reader
 import kattis_scrapper
@@ -44,14 +44,19 @@ def linkSolutions(problem_name, solution):
     readme_link = '[{}]({})'.format(extension, link)
     return readme_link
 
-if __name__ == '__main__':
-    scrapper = kattis_scrapper.PointScrapper()
+def writingReadme(option):
+    if option.lower() == 'y':
+        scrapper = kattis_scrapper.PointScrapper()
     with open('README.md', 'w', encoding='UTF-8') as f:
         tmp = 0
         f.write('# Kattis Problem Solution \n')
         f.write('This repository contains with my solutions that solve some problem in [Kattis Problem Archive](https://open.kattis.com/). \n\n')
-        f.write(' | No | Problems Name | Solutions | Difficulty |\n')
-        f.write(' | -- | ------------- | --------- | ---------- |\n')
+        if option.lower() == 'y':
+            f.write(' | No | Problems Name | Solutions | Difficulty |\n')
+            f.write(' | -- | ------------- | --------- | ---------- |\n')
+        else:
+            f.write(' | No | Problems Name | Solutions |\n')
+            f.write(' | -- | ------------- | --------- |\n')
         for key in dictSource:
             list_tmp = dictSource[key]
             tmp += 1
@@ -66,11 +71,12 @@ if __name__ == '__main__':
                 else:
                     f.write(linkSolutions(key, list_tmp[i])+', ')
             f.write('|')
-            f.write(scrapper.getPoints(problem_link))
-            f.write('|')
+            if option.lower() == 'y':
+                f.write(scrapper.getPoints(problem_link))
+                f.write('|')
+                print(problem_link)
+                print(f"scrapping {tmp} from total {len(dictSource)}")
             f.write('\n')
-            print(problem_link)
-            print(f"scrapping {tmp} from total {len(dictSource)}")
         f.write('\n\n')
 
         f.write('## Author:\n')
@@ -78,3 +84,8 @@ if __name__ == '__main__':
 
         print('\nREADME.MD Successfully Generated/Updated \n')
         userExit = input('Press ENTER to exit..')
+
+
+if __name__ == '__main__':
+    userInput = input("Do you want to show 'Difficulty' or not (y/n)? ")
+    writingReadme(userInput)
