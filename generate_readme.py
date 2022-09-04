@@ -10,6 +10,7 @@ v.1.1.3
 """
 import directory_reader
 import kattis_scrapper
+from datetime import date
 
 inputSource = directory_reader.ListingDirectory('source')
 dictSource = inputSource.make_dictionary()
@@ -51,6 +52,7 @@ def writingReadme(option):
         tmp = 0
         f.write('# Kattis Problem Solution \n')
         f.write('This repository contains with my solutions that solve some problem in [Kattis Problem Archive](https://open.kattis.com/). \n\n')
+        f.write('Score updated on: ' + str(date.today().strftime("%B %d, %Y")) + '\n\n')
         if option.lower() == 'y':
             f.write(' | No | Problems Name | Solutions | Difficulty |\n')
             f.write(' | -- | ------------- | --------- | ---------- |\n')
