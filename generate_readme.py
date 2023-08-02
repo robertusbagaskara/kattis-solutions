@@ -42,6 +42,8 @@ def linkSolutions(problem_name, solution):
         extension = 'Rust'
     elif '.rb' in solution:
         extension = 'Ruby'
+    elif '.vb' in solution:
+        extension = 'Visual Basic'
     readme_link = '[{}]({})'.format(extension, link)
     return readme_link
 
