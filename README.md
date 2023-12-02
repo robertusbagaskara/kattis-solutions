@@ -1,27 +1,27 @@
 # Kattis Problem Solution 
 This repository contains with my solutions that solve some problem in [Kattis Problem Archive](https://open.kattis.com/). 
 
-Score updated on: November 30, 2023
+Score updated on: December 02, 2023
 
  | No | Problems Name | Solutions | Difficulty |
  | -- | ------------- | --------- | ---------- |
- | 1 | [2048](https://open.kattis.com/problems/2048) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/2048/2048.py) |2.9|
+ | 1 | [2048](https://open.kattis.com/problems/2048) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/2048/2048.py) |2.8|
  | 2 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/3D%20Printed%20Statues/3dprinter.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/3D%20Printed%20Statues/3dprinter.py) |2.9|
  | 3 | [4 thought](https://open.kattis.com/problems/4thought) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/4%20thought/4thought.py) |3.3|
  | 4 | [99 Problems](https://open.kattis.com/problems/99problems) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/99%20Problems/99problems.py) |2.8|
  | 5 | [A Different Problem](https://open.kattis.com/problems/different) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/A%20Different%20Problem/different.py) |2.8|
- | 6 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/A%20New%20Alphabet/anewalphabet.py) |2.7|
+ | 6 | [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/A%20New%20Alphabet/anewalphabet.py) |2.9|
  | 7 | [A Real Challenge](https://open.kattis.com/problems/areal) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/A%20Real%20Challenge/areal.py) |1.8|
  | 8 | [Aaah!](https://open.kattis.com/problems/aaah) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Aaah!/aaah.py) |1.7|
  | 9 | [ABC](https://open.kattis.com/problems/abc) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/ABC/abc.py) |2.5|
- | 10 | [Above Average](https://open.kattis.com/problems/aboveaverage) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Above%20Average/aboveaverage.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Above%20Average/aboveaverage.py) |2.5|
+ | 10 | [Above Average](https://open.kattis.com/problems/aboveaverage) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Above%20Average/aboveaverage.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Above%20Average/aboveaverage.py) |2.4|
  | 11 | [ACM Contest Scoring](https://open.kattis.com/problems/acm) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/ACM%20Contest%20Scoring/acm.py) |1.9|
  | 12 | [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Add%20Two%20Numbers/addtwonumbers.cpp) |1.3|
  | 13 | [Adding Trouble](https://open.kattis.com/problems/addingtrouble) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Adding%20Trouble/addingtrouble.py) |1.3|
  | 14 | [Akcija](https://open.kattis.com/problems/akcija) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Akcija/akcija.py) |2.6|
  | 15 | [Alex and Barb](https://open.kattis.com/problems/alexandbarb) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Alex%20and%20Barb/alexandbarb.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Alex%20and%20Barb/alexandbarb.py) |3.8|
  | 16 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Alphabet%20Spam/alphabetspam.py) |1.6|
- | 17 | [Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur) | [Visual Basic](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Amerískur%20vinnustaður/ameriskur.vb) |1.3|
+ | 17 | [Amerískur vinnustaður](https://open.kattis.com/problems/ameriskur) | [Visual Basic](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Amerískur%20vinnustaður/ameriskur.vb) |1.2 - 1.3|
  | 18 | [Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Another%20Brick%20in%20the%20Wall/anotherbrick.cpp) |2.2|
  | 19 | [Another Candies](https://open.kattis.com/problems/anothercandies) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Another%20Candies/anothercandies.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Another%20Candies/anothercandies.py) |2.9|
  | 20 | [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Apaxiaaaaaaaaaaaans!/apaxiaaans.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Apaxiaaaaaaaaaaaans!/apaxiaaans.py) |1.5|
@@ -36,20 +36,20 @@ Score updated on: November 30, 2023
  | 29 | [Beekeeper](https://open.kattis.com/problems/beekeeper) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Beekeeper/beekeeper.py) |2.8|
  | 30 | [Bela](https://open.kattis.com/problems/bela) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Bela/bela.py) |1.4|
  | 31 | [Betting](https://open.kattis.com/problems/betting) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Betting/betting.cpp) |1.3|
- | 32 | [Bijele](https://open.kattis.com/problems/bijele) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Bijele/bijele.cpp), [Java](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Bijele/bijele.java) |1.3|
+ | 32 | [Bijele](https://open.kattis.com/problems/bijele) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Bijele/bijele.cpp), [Java](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Bijele/bijele.java) |1.4|
  | 33 | [Birthday Memorization](https://open.kattis.com/problems/fodelsedagsmemorisering) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Birthday%20Memorization/fodelsedagsmemorisering.py) |1.1 - 1.6|
  | 34 | [Booking a Room](https://open.kattis.com/problems/bookingaroom) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Booking%20a%20Room/bookingaroom.cpp) |1.8|
  | 35 | [Breaking Branches](https://open.kattis.com/problems/breakingbranches) | [Go](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Breaking%20Branches/breakingbranches.go) |1.6|
  | 36 | [Building Pyramids](https://open.kattis.com/problems/pyramids) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Building%20Pyramids/pyramids.cpp) |1.5 - 1.6|
- | 37 | [Buka](https://open.kattis.com/problems/buka) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Buka/buka.py) |2.1|
+ | 37 | [Buka](https://open.kattis.com/problems/buka) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Buka/buka.py) |2.0|
  | 38 | [Bus](https://open.kattis.com/problems/bus) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Bus/bus.py) |1.7|
  | 39 | [Bus Numbers](https://open.kattis.com/problems/busnumbers) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Bus%20Numbers/busnumbers.py) |2.5|
  | 40 | [Calculator](https://open.kattis.com/problems/calculator) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Calculator/calculator.py) |3.1|
  | 41 | [Canadians, eh](https://open.kattis.com/problems/canadianseh) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Canadians,%20eh/canadianseh.cpp) |1.6|
- | 42 | [Candy Division](https://open.kattis.com/problems/candydivision) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Candy%20Division/candydivision.py) |4.0|
+ | 42 | [Candy Division](https://open.kattis.com/problems/candydivision) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Candy%20Division/candydivision.py) |3.9|
  | 43 | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Cetvrta/cetvrta.py) |1.5|
  | 44 | [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Chanukah%20Challenge/chanukah.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Chanukah%20Challenge/chanukah.py) |1.4|
- | 45 | [Character Development](https://open.kattis.com/problems/character) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Character%20Development/character.py) |2.5|
+ | 45 | [Character Development](https://open.kattis.com/problems/character) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Character%20Development/character.py) |2.6|
  | 46 | [Cinema Crowds](https://open.kattis.com/problems/cinema) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Cinema%20Crowds/cinema.cpp) |2.2|
  | 47 | [Cinema Crowds 2](https://open.kattis.com/problems/cinema2) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Cinema%20Crowds%202/cinema2.cpp) |1.9|
  | 48 | [Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Coffee%20Cup%20Combo/coffeecupcombo.cpp) |1.7|
@@ -60,7 +60,7 @@ Score updated on: November 30, 2023
  | 53 | [Damaged Equation](https://open.kattis.com/problems/damagedequation) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Damaged%20Equation/damagedequation.py) |2.5|
  | 54 | [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Das%20Blinkenlights/dasblinkenlights.cpp) |1.9|
  | 55 | [Datum](https://open.kattis.com/problems/datum) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Datum/datum.py) |1.6|
- | 56 | [Death Knight Hero](https://open.kattis.com/problems/deathknight) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Death%20Knight%20Hero/deathknight.py) |1.7|
+ | 56 | [Death Knight Hero](https://open.kattis.com/problems/deathknight) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Death%20Knight%20Hero/deathknight.py) |1.6|
  | 57 | [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Detailed%20Differences/detaileddifferences.py) |1.5|
  | 58 | [Dice Cup](https://open.kattis.com/problems/dicecup) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Dice%20Cup/dicecup.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Dice%20Cup/dicecup.py) |1.4|
  | 59 | [Dice Game](https://open.kattis.com/problems/dicegame) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Dice%20Game/dicegame.cpp) |1.6|
@@ -78,11 +78,11 @@ Score updated on: November 30, 2023
  | 71 | [Filip](https://open.kattis.com/problems/filip) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Filip/filip.py) |1.4|
  | 72 | [Final Exam](https://open.kattis.com/problems/finalexam2) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Final%20Exam/finalexam2.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Final%20Exam/finalexam2.py) |1.8|
  | 73 | [Finding An A](https://open.kattis.com/problems/findingana) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Finding%20An%20A/findingana.cpp), [Go](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Finding%20An%20A/findingana.go) |1.3|
- | 74 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Java](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/FizzBuzz/fizzbuzz.java), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/FizzBuzz/fizzbuzz.py) |1.4|
+ | 74 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Java](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/FizzBuzz/fizzbuzz.java), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/FizzBuzz/fizzbuzz.py) |1.5|
  | 75 | [Free Food](https://open.kattis.com/problems/freefood) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Free%20Food/freefood.py) |1.6|
  | 76 | [FYI](https://open.kattis.com/problems/fyi) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/FYI/fyi.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/FYI/fyi.py) |1.3|
  | 77 | [GCD](https://open.kattis.com/problems/gcd) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/GCD/gcd.cpp) |1.6|
- | 78 | [GCVWR](https://open.kattis.com/problems/gcvwr) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/GCVWR/gcvwr.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/GCVWR/gcvwr.py) |1.4|
+ | 78 | [GCVWR](https://open.kattis.com/problems/gcvwr) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/GCVWR/gcvwr.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/GCVWR/gcvwr.py) |1.3|
  | 79 | [Grading](https://open.kattis.com/problems/grading) | [C](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Grading/grading.c) |1.5|
  | 80 | [Grass Seed Inc](https://open.kattis.com/problems/grassseed) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Grass%20Seed%20Inc/grassseed.cpp), [Java](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Grass%20Seed%20Inc/grassseed.java) |1.4|
  | 81 | [Greetings!](https://open.kattis.com/problems/greetings2) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Greetings!/greetings2.py) |1.3|
@@ -98,8 +98,8 @@ Score updated on: November 30, 2023
  | 91 | [Hot Hike](https://open.kattis.com/problems/hothike) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Hot%20Hike/hothike.py) |2.0|
  | 92 | [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/I've%20Been%20Everywhere,%20Man/everywhere.py) |1.4|
  | 93 | [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/ICPC%20Awards/icpcawards.py) |1.6|
- | 94 | [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Jack-O'-Lantern%20Juxtaposition/jackolanternjuxtaposition.cpp), [Go](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Jack-O'-Lantern%20Juxtaposition/jackolanternjuxtaposition.go) |1.2|
- | 95 | [Job Expenses](https://open.kattis.com/problems/jobexpenses) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Job%20Expenses/jobexpenses.py) |1.6|
+ | 94 | [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Jack-O'-Lantern%20Juxtaposition/jackolanternjuxtaposition.cpp), [Go](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Jack-O'-Lantern%20Juxtaposition/jackolanternjuxtaposition.go) |1.3|
+ | 95 | [Job Expenses](https://open.kattis.com/problems/jobexpenses) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Job%20Expenses/jobexpenses.py) |1.5|
  | 96 | [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Judging%20Moose/judgingmoose.py) |1.6|
  | 97 | [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Jumbo%20Javelin/jumbojavelin.cpp) |1.3|
  | 98 | [Kemija](https://open.kattis.com/problems/kemija08) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Kemija/kemija08.py) |1.8|
@@ -113,7 +113,7 @@ Score updated on: November 30, 2023
  | 106 | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Last%20Factorial%20Digit/lastfactorialdigit.py) |1.4|
  | 107 | [Left Beehind](https://open.kattis.com/problems/leftbeehind) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Left%20Beehind/leftbeehind.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Left%20Beehind/leftbeehind.py) |1.8|
  | 108 | [Leggja saman](https://open.kattis.com/problems/leggjasaman) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Leggja%20saman/leggjasaman.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Leggja%20saman/leggjasaman.py) |1.2|
- | 109 | [License to Launch](https://open.kattis.com/problems/licensetolaunch) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/License%20to%20Launch/licensetolaunch.cpp) |1.5|
+ | 109 | [License to Launch](https://open.kattis.com/problems/licensetolaunch) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/License%20to%20Launch/licensetolaunch.cpp) |1.6|
  | 110 | [Line Them Up](https://open.kattis.com/problems/lineup) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Line%20Them%20Up/lineup.py) |1.7|
  | 111 | [Loo Rolls](https://open.kattis.com/problems/loorolls) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Loo%20Rolls/loorolls.py) |1.8|
  | 112 | [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Luhn's%20Checksum%20Algorithm/luhnchecksum.py) |1.8|
@@ -140,7 +140,7 @@ Score updated on: November 30, 2023
  | 133 | [Pet](https://open.kattis.com/problems/pet) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Pet/pet.py) |1.5|
  | 134 | [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Piece%20of%20Cake!/pieceofcake2.py) |1.4|
  | 135 | [Pizza Crust](https://open.kattis.com/problems/pizza2) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Pizza%20Crust/pizza2.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Pizza%20Crust/pizza2.py) |1.9|
- | 136 | [Planina](https://open.kattis.com/problems/planina) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Planina/planina.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Planina/planina.py) |1.6|
+ | 136 | [Planina](https://open.kattis.com/problems/planina) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Planina/planina.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Planina/planina.py) |1.5|
  | 137 | [Planting Trees](https://open.kattis.com/problems/plantingtrees) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Planting%20Trees/plantingtrees.py) |1.8|
  | 138 | [Poker Hand](https://open.kattis.com/problems/pokerhand) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Poker%20Hand/pokerhand.py) |1.6|
  | 139 | [Popular Vote](https://open.kattis.com/problems/vote) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Popular%20Vote/vote.py) |2.1|
@@ -148,9 +148,9 @@ Score updated on: November 30, 2023
  | 141 | [Printing Costs](https://open.kattis.com/problems/printingcosts) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Printing%20Costs/printingcosts.py) |2.3|
  | 142 | [Provinces and Gold](https://open.kattis.com/problems/provincesandgold) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Provinces%20and%20Gold/provincesandgold.py) |1.5|
  | 143 | [Ptice](https://open.kattis.com/problems/ptice) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Ptice/ptice.py) |1.6|
- | 144 | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Quadrant%20Selection/quadrant.cpp), [Java](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Quadrant%20Selection/quadrant.java), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Quadrant%20Selection/quadrant.py) |1.2|
+ | 144 | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Quadrant%20Selection/quadrant.cpp), [Java](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Quadrant%20Selection/quadrant.java), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Quadrant%20Selection/quadrant.py) |1.3|
  | 145 | [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Quality-Adjusted%20Life-Year/qaly.py) |1.3|
- | 146 | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Quick%20Brown%20Fox/quickbrownfox.py) |2.0|
+ | 146 | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Quick%20Brown%20Fox/quickbrownfox.py) |1.9|
  | 147 | [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Quick%20Estimates/quickestimate.py) |1.6|
  | 148 | [R2](https://open.kattis.com/problems/r2) | [Java](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/R2/r2.java), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/R2/r2.py) |1.4|
  | 149 | [Railroad](https://open.kattis.com/problems/railroad2) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Railroad/railroad2.cpp) |1.6|
@@ -194,9 +194,9 @@ Score updated on: November 30, 2023
  | 187 | [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Synchronizing%20Lists/synchronizinglists.cpp) |1.6|
  | 188 | [T9 Spelling](https://open.kattis.com/problems/t9spelling) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/T9%20Spelling/t9spelling.py) |1.7|
  | 189 | [Take Two Stones](https://open.kattis.com/problems/twostones) | [C](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Take%20Two%20Stones/twostones.c), [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Take%20Two%20Stones/twostones.cpp), [Java](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Take%20Two%20Stones/twostones.java), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Take%20Two%20Stones/twostones.py) |1.4|
- | 190 | [Tarifa](https://open.kattis.com/problems/tarifa) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Tarifa/tarifa.py) |1.3|
+ | 190 | [Tarifa](https://open.kattis.com/problems/tarifa) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Tarifa/tarifa.py) |1.4|
  | 191 | [The Easiest Problem Is This One](https://open.kattis.com/problems/easiest) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/The%20Easiest%20Problem%20Is%20This%20One/easiest.py) |1.6|
- | 192 | [The Last Problem](https://open.kattis.com/problems/thelastproblem) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/The%20Last%20Problem/thelastproblem.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/The%20Last%20Problem/thelastproblem.py) |1.6|
+ | 192 | [The Last Problem](https://open.kattis.com/problems/thelastproblem) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/The%20Last%20Problem/thelastproblem.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/The%20Last%20Problem/thelastproblem.py) |1.5|
  | 193 | [ToLower](https://open.kattis.com/problems/tolower) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/ToLower/tolower.py) |2.3|
  | 194 | [Tower Construction](https://open.kattis.com/problems/tornbygge) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Tower%20Construction/tornbygge.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Tower%20Construction/tornbygge.py) |1.7|
  | 195 | [Tri](https://open.kattis.com/problems/tri) | [C++](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Tri/tri.cpp), [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Tri/tri.py) |1.9|
@@ -214,8 +214,9 @@ Score updated on: November 30, 2023
  | 207 | [Words for Numbers](https://open.kattis.com/problems/wordsfornumbers) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Words%20for%20Numbers/wordsfornumbers.py) |3.1|
  | 208 | [Yin and Yang Stones](https://open.kattis.com/problems/yinyangstones) | [Go](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Yin%20and%20Yang%20Stones/yinyangstones.go) |1.8|
  | 209 | [Yoda](https://open.kattis.com/problems/yoda) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Yoda/yoda.py) |2.1|
- | 210 | [Zamka](https://open.kattis.com/problems/zamka) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Zamka/zamka.py) |1.5|
- | 211 | [Östgötska](https://open.kattis.com/problems/ostgotska) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Östgötska/ostgotska.py) |1.9|
+ | 210 | [Zamka](https://open.kattis.com/problems/zamka) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Zamka/zamka.py) |1.4|
+ | 211 | [Óvissa](https://open.kattis.com/problems/ovissa) | [Javascript](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Óvissa/ovissa.js) |1.2|
+ | 212 | [Östgötska](https://open.kattis.com/problems/ostgotska) | [Python](https://github.com/robertusbagaskara/kattis-solutions/blob/master/source/Östgötska/ostgotska.py) |1.9|
 
 
 ## Author:
